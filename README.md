@@ -48,7 +48,7 @@ A beautiful Japanese language learning app featuring audio lessons from the popu
 ## Installation
 
 ### From APK
-1. Download the latest release APK
+1. [Download the latest release APK](https://github.com/fahimahamed1/Minnano-Nihongo-Lisening/releases/download/v1.0.0/Minnano-Nihongo-Lisening-v1.0-release.apk)
 2. Enable "Install from unknown sources" in your Android settings
 3. Install the APK
 4. Start learning Japanese!
